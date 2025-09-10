@@ -6,7 +6,7 @@ ESP32-C3 based board I know of.
 
 [rallekralle11/Epi_C3](https://github.com/rallekralle11/Epi_C3/tree/main)
 
-Built with:
+Built with Arduino IDE v2.3.6:
 - Sketch: epi_c3_hello_serial.ino, 
 - Board package: esp32 by espressif systems, 
 - Board: LOLIN C3 Mini, 
